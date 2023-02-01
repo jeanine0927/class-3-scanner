@@ -30,7 +30,7 @@ public class AScannerDarkly {
         System.out.println(userInfo);
 
         // 10. Close the Scanner object.
-
+        scanner.close();
     }
 
 }
